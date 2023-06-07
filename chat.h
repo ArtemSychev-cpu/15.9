@@ -4,7 +4,7 @@
 
 constexpr auto LOGINLENGTH = 20;
 constexpr auto HASHCOEFMULTI = 0.6180339887;
-typedef char LoginName[LOGINLENGTH]; //Òèï èìÿ ëîãèíà
+typedef char LoginName[LOGINLENGTH]; 
 
 class Chat 
 {
